@@ -96,8 +96,8 @@ A graph-based financial forensics platform designed to identify suspicious trans
 ## `$ github --stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amogh198&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF" alt="Amogh's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amogh198&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF" alt="Most used languages" />
+ <img height="170" src="https://github-stats-extended.vercel.app/api?username=Amogh198&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amogh198&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF" />
 </p>
 
 <p align="center">
