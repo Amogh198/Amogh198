@@ -14,10 +14,10 @@
 
 ---
 
-## `$ whoami`
+## `Whoami`
 
 ```yaml
-name: Amogh B.
+Name: Amogh B
 username: Amogh198
 role: Information Science Engineering Student
 location: Bengaluru, India
@@ -42,7 +42,7 @@ I enjoy building technology-driven solutions to real-world problems, experimenti
 
 ---
 
-## `$ ls ./featured-projects`
+## `ls ./featured-projects`
 
 ### 1. TrustFeed — AI-Powered Content Analysis
 
